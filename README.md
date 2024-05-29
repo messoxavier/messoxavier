@@ -1,4 +1,4 @@
- - Desenvolvedor Web
+ - Desenvolvedor Web Full Stack
  - Estudante de Ciência da Computação - Centro Universitário dos Guararapes
  - Pernambuco - Brasil
  - Meu linkedin:
