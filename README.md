@@ -1,5 +1,5 @@
  - Desenvolvedor Web Full Stack
- - Estudante de Ciência da Computação - Centro Universitário dos Guararapes (UNIFG)
+ - Graduado em Ciência da Computação
  - Meu linkedin:
 
 <a href="https://www.linkedin.com/in/emersonxavier99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
