@@ -6,15 +6,15 @@ Graduado em Ciência da Computação, tenho experiência em desenvolvimento de s
 ## 🧑‍💻 Minhas Habilidades
 
 - **Frontend**: React e Angular
-- **Backend**: NodeJS, Laravel e CodeIgniter
+- **Backend**: Laravel, NodeJS e CodeIgniter
 - **Banco de Dados**: MySQL, SQL Server e MongoDB
 - **Plataformas**: Moodle
 
 ## 🚀 Tecnologias que Uso
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Messo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Messo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Messo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Messo-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
