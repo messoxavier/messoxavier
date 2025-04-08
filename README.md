@@ -10,7 +10,7 @@ Graduado em Ciência da Computação, tenho experiência em desenvolvimento de s
 - **Banco de Dados**: MySQL, SQL Server e MongoDB
 - **Plataformas**: Moodle
 
-## 🚀 Tecnologias que Uso
+## 🚀 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Messo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
