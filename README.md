@@ -6,7 +6,7 @@ Graduado em Ciência da Computação, tenho experiência em desenvolvimento de s
 ## 🧑‍💻 Minhas Habilidades
 
 - **Frontend**: React e Angular
-- **Backend**: Laravel, NodeJS e CodeIgniter
+- **Backend**: Laravel, NodeJS, CodeIgniter e Spring Boot
 - **Banco de Dados**: MySQL, SQL Server e MongoDB
 - **Plataformas**: Moodle
 
@@ -15,11 +15,13 @@ Graduado em Ciência da Computação, tenho experiência em desenvolvimento de s
 <div style="display: inline_block"><br>
     <img align="center" alt="Messo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
     <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Messo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img align="center" alt="Messo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Messo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Messo-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Messo-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
     <img align="center" alt="Messo-CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
+    <img align="center" alt="Messo-CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
     <img align="center" alt="Messo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
