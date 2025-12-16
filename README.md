@@ -5,8 +5,9 @@ Graduado em Ciência da Computação, tenho experiência em desenvolvimento de s
 
 ## 🧑‍💻 Minhas Habilidades
 
+- **Fullstack**: Laravel e NextJS
 - **Frontend**: React e Angular
-- **Backend**: Laravel, NodeJS, CodeIgniter e Spring Boot
+- **Backend**: NodeJS, CodeIgniter e Spring Boot
 - **Banco de Dados**: MySQL, SQL Server e MongoDB
 - **Plataformas**: Moodle
 
